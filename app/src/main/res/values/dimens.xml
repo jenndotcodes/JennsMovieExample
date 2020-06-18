@@ -3,6 +3,4 @@
     <dimen name="zero">0dp</dimen>
     <dimen name="elevation">20dp</dimen>
     <dimen name="eight">8dp</dimen>
-    <dimen name="sixteen">16dp</dimen>
-    <dimen name="fourty">40dp</dimen>
 </resources>

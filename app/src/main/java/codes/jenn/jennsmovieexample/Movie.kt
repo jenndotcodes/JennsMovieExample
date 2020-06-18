@@ -1,4 +1,4 @@
-package codes.jenn.jennsmovieexample.data
+package codes.jenn.jennsmovieexample
 
 data class Movie(
     var id: Int? = null,

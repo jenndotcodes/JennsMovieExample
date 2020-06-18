@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">JennsMovieExample</string>
     <string name="movie_image">The image of the movie.</string>
+    <string name="detail_image">The image for the movie</string>
 </resources>
